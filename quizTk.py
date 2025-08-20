@@ -11,7 +11,21 @@ question_bank = [
     {"text": "7. What is the output of print(type([]))?", "answer": "C"},
     {"text": "8. Which of the following is immutable in Python?", "answer": "B"},
     {"text": "9. What is the default return type of input() in Python?", "answer": "A"},
-    {"text": "10. Which module in Python is used for regular expressions?", "answer": "C"}
+    {"text": "10. Which module in Python is used for regular expressions?", "answer": "C"},
+    {"text": "11. Which keyword is used to define a function in Python?", "answer": "C"},
+    {"text": "12. Which of the following is used to define a block of code in Python?", "answer": "D"},
+    {"text": "13. What is the output of 2 ** 3 in Python?", "answer": "A"},
+    {"text": "14. Which built-in function returns the length of an object?", "answer": "B"},
+    {"text": "15. Which of these is a Python tuple?", "answer": "A"},
+    {"text": "16. Which operator is used for floor division in Python?", "answer": "C"},
+    {"text": "17. What is the output of bool(0)?", "answer": "B"},
+    {"text": "18. Which of these is NOT a Python data type?", "answer": "D"},
+    {"text": "19. Which statement is used to exit a loop in Python?", "answer": "C"},
+    {"text": "20. Which of the following is the correct file extension for Python files?", "answer": "A"},
+    {"text": "21. Which function is used to display output in Python?", "answer": "B"},
+    {"text": "22. What is the output of len('Python')?", "answer": "C"},
+    {"text": "23. Which of these is used to handle exceptions in Python?", "answer": "A"},
+    {"text": "24. Which of the following is a Python Boolean literal?", "answer": "B"},
 ]
 
 options = [
@@ -24,7 +38,21 @@ options = [
     ["A. <class 'tuple'>", "B. <class 'set'>", "C. <class 'list'>", "D. <class 'dict'>"],
     ["A. List", "B. Tuple", "C. Dictionary", "D. Set"],
     ["A. str", "B. int", "C. float", "D. bool"],
-    ["A. os", "B. sys", "C. re", "D. regex"]
+    ["A. os", "B. sys", "C. re", "D. regex"],
+    ["A. fun", "B. define", "C. def", "D. function"],
+    ["A. Brackets {}", "B. Parentheses ()", "C. Semicolon ;", "D. Indentation"],
+    ["A. 8", "B. 6", "C. 9", "D. 5"],
+    ["A. size()", "B. len()", "C. length()", "D. count()"],
+    ["A. (1, 2, 3)", "B. [1, 2, 3]", "C. {1, 2, 3}", "D. {{1:2}}"],
+    ["A. /", "B. %", "C. //", "D. **"],
+    ["A. True", "B. False", "C. 0", "D. Error"],
+    ["A. List", "B. Set", "C. Tuple", "D. ArrayList"],
+    ["A. stop", "B. exit", "C. break", "D. quit"],
+    ["A. .py", "B. .pyt", "C. .pt", "D. .python"],
+    ["A. printt()", "B. print()", "C. echo()", "D. display()"],
+    ["A. 5", "B. 8", "C. 6", "D. 7"],
+    ["A. try-except", "B. do-catch", "C. throw-catch", "D. handle-error"],
+    ["A. true", "B. True", "C. TRUE", "D. yes"],
 ]
 
 # Globals
