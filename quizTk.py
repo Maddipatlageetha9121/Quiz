@@ -6,7 +6,8 @@ question_bank = [
     {"text": "2. Which of the following is a type of inheritance?", "answer": "D"},
     {"text": "3. What type of inheritance has multiple subclasses to a single superclass?", "answer": "C"},
     {"text": "4. What is the depth of multilevel inheritance in Python?", "answer": "C"},
-    {"text": "5. What does MRO stand for?", "answer": "B"}
+    {"text": "5. What does MRO stand for?", "answer": "B"},
+    {"text": "6. Number of keywords in python are _________", "answer": "A"}
 ]
 
 options = [
@@ -14,7 +15,8 @@ options = [
     ["A. Single", "B. Double", "C. Multiple", "D. Both A and C"],
     ["A. Multiple Inheritance", "B. Multilevel Inheritance", "C. Hierarchical Inheritance", "D. None of these"],
     ["A. Two level", "B. Three level", "C. Any level", "D. None of these"],
-    ["A. Method Recursive Object", "B. Method Resolution Order", "C. Main Resolution Order", "D. Method Resolution Object"]
+    ["A. Method Recursive Object", "B. Method Resolution Order", "C. Main Resolution Order", "D. Method Resolution Object"],
+    ["A. 35", "B. 30", "C. 40", "D. 45"]
 ]
 
 # Globals
