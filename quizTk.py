@@ -25,7 +25,7 @@ question_bank = [
     {"text": "21. Which function is used to display output in Python?", "answer": "B"},
     {"text": "22. What is the output of len('Python')?", "answer": "C"},
     {"text": "23. Which of these is used to handle exceptions in Python?", "answer": "A"},
-    {"text": "24. Which of the following is a Python Boolean literal?", "answer": "B"},
+    {"text": "24. Which of the following is a Python Boolean literal?", "answer": "B"}
 ]
 
 options = [
@@ -52,7 +52,7 @@ options = [
     ["A. printt()", "B. print()", "C. echo()", "D. display()"],
     ["A. 5", "B. 8", "C. 6", "D. 7"],
     ["A. try-except", "B. do-catch", "C. throw-catch", "D. handle-error"],
-    ["A. true", "B. True", "C. TRUE", "D. yes"],
+    ["A. true", "B. True", "C. TRUE", "D. yes"]
 ]
 
 # Globals
