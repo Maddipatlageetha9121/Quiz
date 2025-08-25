@@ -25,7 +25,17 @@ question_bank = [
     {"text": "21. Which function is used to display output in Python?", "answer": "B"},
     {"text": "22. What is the output of len('Python')?", "answer": "C"},
     {"text": "23. Which of these is used to handle exceptions in Python?", "answer": "A"},
-    {"text": "24. Which of the following is a Python Boolean literal?", "answer": "B"}
+    {"text": "24. Which of the following is a Python Boolean literal?", "answer": "B"},
+    {"text": "25. Which keyword is used to create a class in Python?", "answer": "C"},
+    {"text": "26. What is the output of 10 % 3?", "answer": "B"},
+    {"text": "27. Which built-in function is used to get the absolute value of a number in Python?", "answer": "A"},
+    {"text": "28. Which operator is used for string concatenation in Python?", "answer": "C"},
+    {"text": "29. Which function is used to read a line from standard input in Python 3?", "answer": "D"},
+    {"text": "30. What is the output of len([1, [2, 3], 4])?", "answer": "B"},
+    {"text": "31. Which of the following is a Python membership operator?", "answer": "A"},
+    {"text": "32. Which keyword is used to import a module in Python?", "answer": "C"},
+    {"text": "33. What will be the output of type( (10,) )?", "answer": "B"},
+    {"text": "34. Which function is used to return the largest item in an iterable?", "answer": "D"}
 ]
 
 options = [
@@ -52,7 +62,17 @@ options = [
     ["A. printt()", "B. print()", "C. echo()", "D. display()"],
     ["A. 5", "B. 8", "C. 6", "D. 7"],
     ["A. try-except", "B. do-catch", "C. throw-catch", "D. handle-error"],
-    ["A. true", "B. True", "C. TRUE", "D. yes"]
+    ["A. true", "B. True", "C. TRUE", "D. yes"],
+    ["A. object", "B. className", "C. class", "D. defclass"],
+    ["A. 3", "B. 1", "C. 10", "D. 0"],
+    ["A. abs()", "B. fabs()", "C. absolute()", "D. modulus()"],
+    ["A. , (comma)", "B. &", "C. +", "D. concat"],
+    ["A. gets()", "B. readline()", "C. scan()", "D. input()"],
+    ["A. 4", "B. 3", "C. 2", "D. 5"],
+    ["A. in", "B. is", "C. == ", "D. not=="],
+    ["A. include", "B. require", "C. import", "D. use"],
+    ["A. <class 'int'>", "B. <class 'tuple'>", "C. <class 'list'>", "D. <class 'dict'>"],
+    ["A. maximum()", "B. top()", "C. high()", "D. max()"]
 ]
 
 # Globals
